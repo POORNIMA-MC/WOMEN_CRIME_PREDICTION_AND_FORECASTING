@@ -1,28 +1,31 @@
 # WOMEN_CRIME_PREDICTION_AND_FORECASTING
 
 ## Introduction 
-### The main objective of this project is to develop a system which predicts women crime across India from 2010-2023
+### The main objective of this project is to develop a system which predicts the number of different types of violences against women across India from 2010-2023
 
 ## Technologies used 
 ### Django(app development),html,css, squlite3(For storing login and signup information), ML(to make predictions)
 
 ## Home Page:
-![Screenshot (248)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/2649312a-d9f3-4ca0-aae3-cecb63638846)
+![Screenshot (248)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/8c0b92a3-4892-4802-b127-2ad3fbe5194a)
+
 
 ## Login/Signup Page:
 
-![Screenshot (249)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/df060964-3791-4540-b7b1-7ed4ff1264d4)
+![Screenshot (249)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/07ee2b43-9134-40ce-97c9-e13211a033e7)
 
-![Screenshot (250)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/ecb84419-cf67-4982-88db-9ff4a8fab2d2)
+![Screenshot (250)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/dfb93576-51ee-459d-868f-e2a6fab29fe6)
+
 
 ## Form Page:
 
-![Screenshot (251)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/e62e991f-fbee-43c5-aff1-26ca74af2fcd)
+![Screenshot (251)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/38339764-45a8-43df-83bb-f82557ada9c7)
 
 ## Prediction page: 
+![Screenshot (253)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/97f60d11-bc7e-4282-8c8d-6339ceb045fc)
 
-![Screenshot (253)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/bc810ad4-c34c-40a1-a812-d770ef118dfa)
 
 ## Analytics page :
 
-![Screenshot (252)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/6de163ae-8992-4099-8f75-47392117928d)
+![Screenshot (252)](https://github.com/POORNIMA-MC/WOMEN_CRIME_PREDICTION_AND_FORECASTING/assets/94465883/9a80e5b8-e17a-4c91-9290-d8733b0bdce2)
+
